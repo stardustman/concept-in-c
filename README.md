@@ -1,0 +1,1 @@
+[pointer](https://www.thegeekstuff.com/2012/01/advanced-c-pointers/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed:+TheGeekStuff+(The+Geek+Stuff))
