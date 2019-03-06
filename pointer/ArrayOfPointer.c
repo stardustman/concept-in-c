@@ -19,6 +19,7 @@ int main(void)
     }
     int ** pointer;
     pointer = a;
+    int aint[10];
 
    printf("\n p1 = [%s] \n",p1);
    printf("\n p2 = [%s] \n",p2);
@@ -32,7 +33,11 @@ int main(void)
        printf("%d\n",pointer[i]);
 
    }
-
+   
+   //  array address
+   printf("%d\n",&aint);
+   printf("%d\n",aint);
+   printf("%d\n",&aint[0]);
 
    return 0;
 }
